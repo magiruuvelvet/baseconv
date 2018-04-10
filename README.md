@@ -7,6 +7,13 @@ Feel free to use it as you like.
 Updated to use C++11 features and boost.
 
 
+# Supported bases
+
+ - from everything to everything (2~36)
+ - supports fractions
+ - default output is base 10
+
+
 # License
 
 ```
